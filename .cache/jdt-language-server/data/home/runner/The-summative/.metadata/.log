@@ -1,0 +1,336 @@
+!SESSION 2023-11-28 15:50:42.458 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/The-summative/.cache/jdt-language-server/data/home/runner/The-summative
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:06.057
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:09.560
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.161
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.164
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.357
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.358
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.365
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.457
+!MESSAGE Wait for AutoBuildOffJob end 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.458
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.459
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.463
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.467
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:10.865
+!MESSAGE Started org.eclipse.buildship.core 399ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:17.575
+!MESSAGE LoadingGradleVersionJob finished 6709ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:17.855
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:18.162
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:18.859
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:26.768
+!MESSAGE Workspace initialized in 9114ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:26.976
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:27.067
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:29.204
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:29.215
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:29.217
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:31.443
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:38.556
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:40.709
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:40.727
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:40.785
+!MESSAGE Validated 1. Took 8930 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:40.792
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:40.817
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:42.667
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:42.671
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:42.756
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:42.784
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:43.756
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:43.957
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:44.273
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.358
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.360
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.460
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.462
+!MESSAGE Clearing problems for /leaderboard.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.464
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:45.870
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:46.962
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:50.823
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:50.865
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:51.259
+!MESSAGE begin problem for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:51.260
+!MESSAGE 1 problems reported for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-11-28 15:51:51.260
+!MESSAGE Validated 2. Took 3881 ms
+!SESSION 2023-12-04 20:28:52.488 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/The-summative/.cache/jdt-language-server/data/home/runner/The-summative
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-04 20:28:59.974
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:03.197
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.573
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.776
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.792
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.821
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.824
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.835
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.879
+!MESSAGE Started org.eclipse.m2e.core 44ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.902
+!MESSAGE ProjectRegistryRefreshJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:05.905
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:06.180
+!MESSAGE Started org.eclipse.buildship.core 275ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:11.181
+!MESSAGE LoadingGradleVersionJob finished 4995ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-04 20:29:11.506
+!MESSAGE >> initialized
+!SESSION 2024-01-17 18:37:10.964 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/The-summative/.cache/jdt-language-server/data/home/runner/The-summative
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-17 18:37:23.490
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:28.174
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:30.997
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.472
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.480
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.502
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.571
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.583
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.665
+!MESSAGE Started org.eclipse.m2e.core 82ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.677
+!MESSAGE ProjectRegistryRefreshJob finished 11ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.682
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:31.981
+!MESSAGE Started org.eclipse.buildship.core 297ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:39.068
+!MESSAGE LoadingGradleVersionJob finished 7005ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:39.453
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:48.028
+!MESSAGE Workspace initialized in 8932ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:48.211
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:48.325
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:49.404
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:49.412
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:49.470
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.069
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.485
+!MESSAGE Clearing problems for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.571
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.919
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.920
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.922
+!MESSAGE Clearing problems for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:54.977
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:55.370
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:55.424
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:57.973
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:58.654
+!MESSAGE begin problem for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:58.678
+!MESSAGE 1 problems reported for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:37:58.754
+!MESSAGE Validated 1. Took 679 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:00.473
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:00.481
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:03.870
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:03.882
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:03.892
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:04.205
+!MESSAGE begin problem for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:04.207
+!MESSAGE 1 problems reported for /playerActions.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:04.266
+!MESSAGE Validated 2. Took 2405 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-01-17 18:38:05.223
+!MESSAGE >> document/hover
